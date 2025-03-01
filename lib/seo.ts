@@ -3,6 +3,7 @@ export const siteDescription =
   "Showcasing minimalist, UX-focused dashboard designs by Zakary, a seasoned developer and UI designer based in Montreal, Quebec.";
 export const siteUrl = "https://zakary.dev";
 export const siteImage = `${siteUrl}/og-image.png`;
+export const favicon = "../app/favicon.ico";
 
 export const metadata = {
   title: {
@@ -53,5 +54,8 @@ export const metadata = {
   },
   alternates: {
     canonical: siteUrl,
+  },
+  icons: {
+    icon: favicon,
   },
 };
