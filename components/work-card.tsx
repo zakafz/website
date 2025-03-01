@@ -50,7 +50,7 @@ export default function WorkCard(props: {
             href={props.href}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-primary font-semibold flex underline w-fit items-center gap-1"
+            className="text-primary font-semibold flex underline w-fit items-center gap-1 focus:outline-none focus:ring-0"
           >
             Check out more <ArrowUpRight className="size-4" />
           </Link>
