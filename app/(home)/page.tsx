@@ -31,12 +31,7 @@ export default function Home() {
       <WorkCard
         title="Measurely"
         role="Co-owner & Design engineer"
-        href="https://measurely.dev"
-      />
-      <Spacer size="xs" />
-      <WorkCard
-        title="Lightbox-kit"
-        role="Developer"
+        description="Open-source analytics platform for developers, enabling flexible metric tracking via API. Features include real-time data visualization with customizable Blocks, multi-metric support, and team-based access control. Designed for modern applications with a scalable, event-based pricing model."
         href="https://measurely.dev"
       />
       <Spacer size="md" />
