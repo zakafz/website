@@ -53,7 +53,7 @@ export const metadata = {
     canonical: "https://zakary.dev",
   },
   icons: {
-    icon: "/favicon.ico",
+    icon: "./favicon.ico",
   },
 };
 

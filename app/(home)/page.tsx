@@ -20,7 +20,7 @@ export default function Home() {
           (new Date().getMonth() === 8 && new Date().getDate() < 13)
             ? 1
             : 0)
-        } years old design technologist and software developer based in Montreal, specializing in minimalist, UX-focused interfaces. Centered on building intuitive interfaces.`}
+        } years old design technologist and software developer based in Montreal, specializing in minimalist, UX-focused interfaces.`}
       />
       <Spacer size="md" />
       <Text
